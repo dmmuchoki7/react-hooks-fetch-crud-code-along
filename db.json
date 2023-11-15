@@ -83,12 +83,6 @@
       "category": "Dairy",
       "isInCart": true,
       "id": 14
-    },
-    {
-      "name": "David m",
-      "category": "Dairy",
-      "isInCart": false,
-      "id": 15
     }
   ]
 }
